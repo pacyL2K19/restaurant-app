@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-app",
+  "version": "1.0.0",
+  "description": "A restaurant presentation web app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacyL2K19/restaurant-app.git"
+  },
+  "author": "Pacifique Linjanja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pacyL2K19/restaurant-app/issues"
+  },
+  "homepage": "https://github.com/pacyL2K19/restaurant-app#readme",
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
