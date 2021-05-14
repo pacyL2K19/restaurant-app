@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log(\"Here we go ...\");\n\n//# sourceURL=webpack://restaurant-app/./src/index.js?");
+eval("/* eslint-disable no-console */\nconsole.log('Here we go ...');\n\n//# sourceURL=webpack://restaurant-app/./src/index.js?");
 
 /***/ })
 
