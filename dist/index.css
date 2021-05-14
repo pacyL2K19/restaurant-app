@@ -107,7 +107,7 @@
   
   #home {
     height: 92vh;
-    background: url(./images/food.jpg) no-repeat center center fixed;
+    background: url(./assets/food.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
