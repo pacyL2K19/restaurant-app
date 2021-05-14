@@ -1,5 +1,5 @@
 :root {
-    --pink: #ed1250;
+    --white: #fdfdfd;
     --pale-yellow: #fff6da;
     --dark-blue: #042f4b;
     --orange: #fbc99d;
@@ -35,8 +35,8 @@
   }
   
   h2 {
-    font-family: var(--fredoka);
-    color: var(--pink);
+    font-family: sans-serif;
+    color: var(--white);
     font-size: calc(2rem + 1vw);
   }
   
@@ -93,25 +93,35 @@
   }
   
   .tab-content h1 {
-    font-family: var(--fredoka);
+    font-family: sans-serif;
     font-size: calc(3rem + 2vw);
     text-align: center;
   }
   
   .tab-content p {
     font-weight: bolder;
-    font-family: var(--fredoka);
+    font-family: sans-serif;
     font-size: calc(1rem + 0.7vw);
     text-align: center;
   }
   
   #home {
     height: 92vh;
-    background: url(./assets/food.jpg) no-repeat center center fixed;
+    background: url(./assets/image.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+  }
+
+  .overlay {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: rgba(250, 0, 0, 0.5);
+      
   }
   
   #home .hero {
@@ -205,7 +215,7 @@
   }
   
   #menu .hero h1 {
-    font-family: var(--sansita);
+    font-family: sans-serif;
     font-size: calc(3rem + 1vw);
     color: rgb(36, 36, 36);
     position: relative;
