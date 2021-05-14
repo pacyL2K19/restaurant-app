@@ -5,6 +5,7 @@ const renderHomePage = (() => {
   const home = document.createElement('div');
   home.classList.add('tab-content');
   home.innerHTML = `<div id="home" class="active" data-tab-content>
+  <div class="overlay"></div>
   <div class="hero">
     <h1>Come on down for some delicious cuisine!</h1>
     <p>Tasty and affordable!</p>

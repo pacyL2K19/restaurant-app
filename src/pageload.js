@@ -5,7 +5,7 @@ const pageLoad = (() => {
   const header = document.createElement('header');
   header.innerHTML = `
   <nav>
-  <h2>Food-on-a-Plate</h2>
+  <h2>Restaurant</h2>
   <a href="#" class="hamburger">
     <span class="line line1"></span>
     <span class="line line2"></span>
