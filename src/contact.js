@@ -1,9 +1,10 @@
+/* eslint-disable import/prefer-default-export */
 const renderContactPage = (() => {
-  //container
-  const contentContainer = document.querySelector("#content");
-  const contact = document.createElement("div");
-  contact.setAttribute("id", "contact");
-  contact.setAttribute("data-tab-content", "");
+  // container
+  const contentContainer = document.querySelector('#content');
+  const contact = document.createElement('div');
+  contact.setAttribute('id', 'contact');
+  contact.setAttribute('data-tab-content', '');
   contact.innerHTML = `
     <div class="hero">
     <h1>Contact us</h1>
@@ -12,8 +13,8 @@ const renderContactPage = (() => {
     <div class="info">
       <div class="address">
         <p>
-          <i class="fi-xnsuxl-map-marker-solid"></i>1024 Oakwood Ave<br />San
-          Diego, CA 22434
+          <i class="fi-xnsuxl-map-marker-solid"></i>Gombe OUA 390<br />San
+          Kinshasa
         </p>
       </div>
       <div class="hours">
@@ -24,7 +25,7 @@ const renderContactPage = (() => {
         </p>
       </div>
       <div class="phone">
-        <p><i class="fi-xnsrxl-phone-solid"></i>(222)-888 5555</p>
+        <p><i class="fi-xnsrxl-phone-solid"></i>(243)-999 999 999</p>
       </div>
       <div class="contact-form">
         <form onsubmit="return false">

@@ -1,8 +1,8 @@
+/* eslint-disable no-unused-vars */
 const pageLoad = (() => {
-  //container
-  const contentContainer = document.querySelector("#content");
+  const contentContainer = document.querySelector('#content');
 
-  const header = document.createElement("header");
+  const header = document.createElement('header');
   header.innerHTML = `
   <nav>
   <h2>Food-on-a-Plate</h2>
@@ -18,5 +18,5 @@ const pageLoad = (() => {
   </ul>
 </nav>`;
 
-    contentContainer.appendChild(header)
+  contentContainer.appendChild(header);
 })();
