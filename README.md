@@ -1,2 +1,3 @@
-# restaurant-app
-A restaurant presentation app 
+# Restaurant App
+
+> This project is part of 
