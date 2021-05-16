@@ -35,7 +35,7 @@
 
 <b>Restaurant </b> The main goal of this project is to understand the benefits of modularized code as well as the ability to set up a javascript application made of different modules using webpack.
 
-<img src="./src/img/screen-min.gif" alt="Screenshot" style="margin: auto; display: block;">
+<img src="./dist/assets/restaurant.gif" alt="Screenshot" style="margin: auto; display: block;">
 
 ## Watch the Live Version
 
