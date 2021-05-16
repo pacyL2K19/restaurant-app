@@ -3,7 +3,6 @@
     --pale-yellow: #fff6da;
     --dark-blue: #042f4b;
     --orange: #fbc99d;
-    --fredoka: "Fredoka One", cursive;
     --poppins: "Poppins", sans-serif;
     --sansita: "Sansita Swashed", cursive;
   }
@@ -116,7 +115,7 @@
 
   .overlay {
       position: absolute;
-      top: 80px;
+      top: 8vh;
       bottom: 0;
       left: 0;
       right: 0;
