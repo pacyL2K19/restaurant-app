@@ -39,7 +39,7 @@
 
 ## Watch the Live Version
 
-[Live Demo](http://gbisimwa.me/restaurant/)
+[Live Demo](https://pacyl2k19.github.io/restaurant-app/)
 
 ### Prerequisites
 
