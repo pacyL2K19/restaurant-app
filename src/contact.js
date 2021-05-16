@@ -47,7 +47,7 @@ const renderContactPage = (() => {
       </div>
     </div>
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d214758.79711848433!2d-117.2340910766061!3d32.74964580211821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dbfe28190f4b67%3A0x92fa4bca315a5951!2sMcDonald&#39;s!5e0!3m2!1sen!2sus!4v1601955396977!5m2!1sen!2sus"
+      src="https://www.google.com/maps/d/u/0/embed?mid=110QBBHsqaZ4qZL84I0zX-x5ecoaaACd0" width="640" height="480"
       width="600"
       height="450"
       frameborder="0"
