@@ -75,7 +75,7 @@ Lauch the local version of this project opening the `dist/index.html` file in th
 
 This project was created for educational purposes as part of the Microverse web development curriculum; contributing is not accepted.
 
-Feel free to check the [issues page](https://github.com/guillainbisimwa/restaurant/issues).
+Feel free to check the [issues page](https://github.com/pacyL2K19/restaurant-app/issues).
 
 ## Author
 
